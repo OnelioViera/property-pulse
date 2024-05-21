@@ -1,7 +1,10 @@
+import Link from 'next/link'
+
 const PropertiesPage = () => {
   return (
     <div>
-      Properties Page
+      <h1 className="text-3xl">Properties</h1>
+      <Link href="/">HOME</Link>
     </div>
   )
 }
