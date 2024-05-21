@@ -1,7 +1,7 @@
 const PropertyPage = () => {
   return (
-    <div>
-      Property Page
+    <div className="text-3xl">
+      Property Add Page
     </div>
   )
 };
