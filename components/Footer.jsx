@@ -8,8 +8,7 @@ const Footer = () => {
   return (
     // <!-- Footer -->
     <footer className="bg-gray-200 py-4 mt-24">
-      <div
-        className="container mx-auto flex flex-col md:flex-row items-center justify-between px-4"
+      <div className="container mx-auto flex flex-col md:flex-row items-center justify-between px-4"
       >
         <Link className="mb-4 md:mb-0"  href="/" >
           <Image src={logo} alt="Logo" className="h-8 w-auto" />
